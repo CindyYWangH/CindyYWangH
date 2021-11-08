@@ -9,6 +9,6 @@ CindyYWangH/CindyYWangH is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 Table of Contents
-- Toturials of Python library https://github.com/CindyYWangH/pb_Python.git
+- Tutorials of Python library https://github.com/CindyYWangH/pb_Python.git
 - Tableau visualization exercises https://github.com/CindyYWangH/Audiobook_Tableau_Udemy.git 
 - Hypothesis testing cheatsheet https://github.com/CindyYWangH/Hypothesis-testing-cheatsheet.git
